@@ -115,11 +115,6 @@
 				83A81D492AAF0D1000EBA4F7 /* SceneDelegate.swift */,
 				83A81DC92AAF1A4F00EBA4F7 /* Model */,
 				83A81DCB2AAF1A6E00EBA4F7 /* Controller */,
-				83A81DC52AAF168F00EBA4F7 /* NextViewController.swift */,
-				83A81DBF2AAF13A000EBA4F7 /* HomeCollectionViewCell.swift */,
-				83A81DBD2AAF12BA00EBA4F7 /* HomeViewController.swift */,
-				83A81DC72AAF17DC00EBA4F7 /* ConfirmViewController.swift */,
-				83A81DC32AAF148600EBA4F7 /* PlayViewController.swift */,
 				83A81D502AAF0D1300EBA4F7 /* Assets.xcassets */,
 				83A81D522AAF0D1300EBA4F7 /* LaunchScreen.storyboard */,
 				83A81D552AAF0D1300EBA4F7 /* Info.plist */,
@@ -173,16 +168,13 @@
 			children = (
 				83A81D772AAF0DD700EBA4F7 /* FirstViewController.swift */,
 				83A81D7B2AAF0EDC00EBA4F7 /* TableViewCell.swift */,
-				83A81DCD2AAF1AD800EBA4F7 /* App Details View Controller */,
+				83A81DC52AAF168F00EBA4F7 /* NextViewController.swift */,
+				83A81DBF2AAF13A000EBA4F7 /* HomeCollectionViewCell.swift */,
+				83A81DBD2AAF12BA00EBA4F7 /* HomeViewController.swift */,
+				83A81DC72AAF17DC00EBA4F7 /* ConfirmViewController.swift */,
+				83A81DC32AAF148600EBA4F7 /* PlayViewController.swift */,
 			);
 			path = "Home VIew Controller";
-			sourceTree = "<group>";
-		};
-		83A81DCD2AAF1AD800EBA4F7 /* App Details View Controller */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "App Details View Controller";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
